@@ -9,7 +9,7 @@ Until 12/2022, I did mainly qualitative analytical work at Nippon Life Insurance
 My strengths are in analytical problem solving and Python/SQL and I have a keen interest in data engineering.
 
 
-My bootcamp capstone project is :gb: POInterest - London Airbnb Explorer :gb:
+My bootcamp capstone project was :gb: POInterest - London Airbnb Explorer :gb:
 
 
 POInterest is a dashboard tool that uses data combined from Airbnb, the Overpass API & Google Maps (via Selenium and Beautiful Soup) to filter for and find the optimal environment of Airbnbs for travelers.
