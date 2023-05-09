@@ -8,5 +8,9 @@ The Tableau Dashboard:
 <p>(3) helps you understanding your neighbourhood better</p>
 <p>(4) allows you to book an Airbnb directly in the interface</p>
 <p> </p>
+
+
 [Dashboard](https://public.tableau.com/views/POInterest-LondonAirbnbExplorer/FINALDASHBOARD?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link) | [Code]
+
+
 ![Dashboard Screenshot](https://github.com/S3lina3/My_Projects/blob/main/Journeymans_Piece_Dashboard_London_Airbnb_Explorer.png)
