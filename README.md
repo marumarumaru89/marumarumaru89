@@ -10,10 +10,10 @@ My bootcamp capstone project is :gb: POInterest - London Airbnb Explorer :gb:
 POInterest is a dashboard tool that uses data combined from Airbnb, the Overpass API & Google Maps (via Selenium and Beautiful Soup) to filter for and find the optimal environment of Airbnbs for travelers.
 
 The Tableau Dashboard:
-<p>* filters by both Airbnb and POI filters</p>
-<p>* checks for fair prices via linear regression</p>
-<p>* helps you understanding your neighbourhood better</p>
-<p>* allows you to book an Airbnb directly in the interface</p>
+* filters by both Airbnb and POI filters</p>
+* checks for fair prices via linear regression</p>
+* helps you understanding your neighbourhood better</p>
+* allows you to book an Airbnb directly in the interface</p>
 <p> </p>
 
 
