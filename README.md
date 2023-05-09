@@ -2,10 +2,7 @@
 I am a graduate of the University of Hamburg with a degree in economics.
 
 
-Having rediscovered my love for numbers and data, I recently completed a full-time three month Data Analytics bootcamp at neuefische in Hamburg.
-
-
-In March 2022, I completed the Google Data Analytics Professional Certificate.
+Having rediscovered my love for numbers and data, I recently completed a full-time three month Data Analytics bootcamp at neuefische in Hamburg. In March 2022, I completed the Google Data Analytics Professional Certificate.
 
 
 Until 12/2022, I did mainly qualitative analytical work at Nippon Life Insurance, Japan's largest life insurer.
