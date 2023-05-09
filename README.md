@@ -1,5 +1,5 @@
-### Here you can find my Projects as a Data Analytics Trainee ###
-My neuefische bootcamp capstone project is :gb: POInterest - London Airbnb Explorer :gb:
+### Welcome to my Github profile! ###
+My neuefische Data Analtics bootcamp capstone project is :gb: POInterest - London Airbnb Explorer :gb:
 POInterest is a dashboard tool that uses data combined from Airbnb, the Overpass API & Google Maps (via Selenium and Beautiful Soup) to filter for and find the optimal environment of Airbnbs for travelers.
 
 The Tableau Dashboard:
