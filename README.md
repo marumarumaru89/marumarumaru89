@@ -1,4 +1,7 @@
 ### Welcome to my Github profile! ###
+
+
+
 My neuefische Data Analtics bootcamp capstone project is :gb: POInterest - London Airbnb Explorer :gb:
 POInterest is a dashboard tool that uses data combined from Airbnb, the Overpass API & Google Maps (via Selenium and Beautiful Soup) to filter for and find the optimal environment of Airbnbs for travelers.
 
@@ -10,7 +13,7 @@ The Tableau Dashboard:
 <p> </p>
 
 
-[Dashboard](https://public.tableau.com/views/POInterest-LondonAirbnbExplorer/FINALDASHBOARD?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link) | [Code]
+![Dashboard](https://public.tableau.com/views/POInterest-LondonAirbnbExplorer/FINALDASHBOARD?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
 ![Dashboard Screenshot](https://github.com/S3lina3/My_Projects/blob/main/Journeymans_Piece_Dashboard_London_Airbnb_Explorer.png)
