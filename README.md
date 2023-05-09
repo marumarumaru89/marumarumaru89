@@ -22,7 +22,7 @@ The Tableau Dashboard:
 <p> </p>
 
 
-[Dashboard](https://public.tableau.com/views/POInterest-LondonAirbnbExplorer/FINALDASHBOARD?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
+[Tableau Public Dashboard Link](https://public.tableau.com/views/POInterest-LondonAirbnbExplorer/FINALDASHBOARD?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
 ![Dashboard Screenshot](https://github.com/S3lina3/My_Projects/blob/main/Journeymans_Piece_Dashboard_London_Airbnb_Explorer.png)
